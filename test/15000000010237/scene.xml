@@ -1,0 +1,13 @@
+	<ARScene>
+		<ID>0</ID>
+		<Name>Community Center Elephant Mural</Name>
+		<Description>Simple puzzle for fun.</Description>
+		<Hint>1493419517875</Hint>
+		<Lat>37.290761</Lat>
+		<Long>-121.889488</Long>
+		<TimeCreated>Fri Mar 24 09:01:39 PDT 2017</TimeCreated>
+		<File>config.xml</File>
+		<Models>
+			<File>0/object.xml</File>
+		</Models>
+</ARScene>

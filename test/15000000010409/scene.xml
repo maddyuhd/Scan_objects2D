@@ -1,0 +1,13 @@
+	<ARScene>
+		<ID>0</ID>
+		<Name>The Wilmore Heritage Garden</Name>
+		<Description>Simple puzzle for fun.</Description>
+		<Hint>1494434508509</Hint>
+		<Lat>33.775520</Lat>
+		<Long>-118.201596</Long>
+		<TimeCreated>Fri Mar 24 09:01:39 PDT 2017</TimeCreated>
+		<File>config.xml</File>
+		<Models>
+			<File>0/object.xml</File>
+		</Models>
+</ARScene>

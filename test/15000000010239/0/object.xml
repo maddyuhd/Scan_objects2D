@@ -1,0 +1,12 @@
+	<ARGeometry>
+		<Name>Xcapade_Cube_long</Name>
+		<File>xcapadecube_2.obj</File>
+		<Scale>20.0</Scale>		
+		<Translation><X>0.0</X><Y>0.0</Y><Z>20.0</Z></Translation>
+		<Rotation><X>1.5700215</X><Y>-0.0</Y><Z>0.0</Z></Rotation>
+		<RenderOrder>0</RenderOrder>
+		<COSID>1</COSID>
+		<Transparency>0.0</Transparency>
+		<Type>MODEL</Type>
+		<VideoTransparent>false</VideoTransparent>
+	</ARGeometry>

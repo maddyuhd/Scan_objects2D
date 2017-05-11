@@ -1,0 +1,13 @@
+	<ARScene>
+		<ID>0</ID>
+		<Name>Santa Cruz Park Est.1889</Name>
+		<Description>Simple puzzle for fun.</Description>
+		<Hint>1494434512984</Hint>
+		<Lat>33.767050</Lat>
+		<Long>-118.196584</Long>
+		<TimeCreated>Fri Mar 24 09:01:39 PDT 2017</TimeCreated>
+		<File>config.xml</File>
+		<Models>
+			<File>0/object.xml</File>
+		</Models>
+</ARScene>
